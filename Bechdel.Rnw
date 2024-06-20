@@ -19,6 +19,11 @@ Finally, the worst rating, ``no women,'' natural doesn't even have women in the 
 
 Using the Bechdel test rating as an ordinal outcome measure (response variable), we will examine relationships between representation of women in film and other variables such as budget, parental rating, and genre.
 
+\section{The Data}
+The data are regarding XX films from the years XX to XX. The films represent some blockbusters (e.g., XXX, XXX, each with a budget of over \$XXXXX) as well as some more obscure films (e.g., XXXX, XXXX, with budgets below \$XXXX).  Overall, there is a fairly large swath of parental ratings (see Table XX), with at least XX in each category of G, PG, PG-13, and R. There ris also a broad swath of genres represented (see Table XX), with at least XX in each of the genres of XX, XX, XX, and XX, which will be the main focus of this paper. 
+
+The data were collected by XXX  - more about the data selection and measures are given here.
+
 \section{Budget and Bechdel Rating}
 
 
