@@ -1,0 +1,38 @@
+\documentclass{article}
+
+\begin{document}
+%\SweaveOpts{concordance=TRUE}
+
+
+\section{Introduction}
+Historically women are underrepresented in the film and TV industry. In the year 2021 only 7\% of films had more female characters in comparison to male characters. This is drastic when compared to the 85\% of films which had more male characters than female characters. 
+% need to add citation here \cite{MansWorld}
+
+The Bechdel test is an informal yet informative method for measuring the role of women in film. It is named after its creator, Alison Bechdel, an American graphic novelist, who in 1985 created a comic based on a conversation with a friend.
+% Let's insert a figure here with the comic and cite the source.
+The friend refused watch a film unless there where two women in the film who talk to each other about something other than a man. Although not part of the intention of the comic, the friend's criteria became popularized 15 years later as a test for identifying female representation in film.
+% \cite{BechdalA}.
+
+There are four possible levels in a Bechdel rating, which we will present in order from best to worst. The best level is a ``pass.'' To achive a Bechdel rating of ``pass,'' there must be at least 2 female identifying characters that talk to each other about something other than a man. A rating of ``dubious'' is awarded to movies that don't clearly pass the test, but arguably come close. A third rating, ``no talk,'' is reserved for movies that at least have women represented, but the women don't talk about something other than a man. %Eva check this is correct?
+Finally, the worst rating, ``no women,'' natural doesn't even have women in the film.  The four levels have a clear order, and although they can be ranked from 1 to 4, they naturally are not a quantiative variable but rather an ordinal variable, which is a categorical variable with a clear order to the categories.
+% let's add more here about the different levels dubious etc.
+
+Using the Bechdel test rating as an ordinal outcome measure (response variable), we will examine relationships between representation of women in film and other variables such as budget, parental rating, and genre.
+
+\section{Budget and Bechdel Rating}
+
+
+\section{Genre and Bechdel Rating}
+
+\section{Parental Rating and Bechdel Rating}
+
+\section{Putting it All Together}
+
+
+\section{Conclusions}
+
+\subsection{Limitations}
+
+- Sample might not be random
+
+\end{document}
